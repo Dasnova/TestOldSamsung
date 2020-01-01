@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="53.946749">
+<testcase classname="I want to search for TruNarrative so i can verify some web element" name="TruNarrative Page search and web element verification" time="53.946749">
+<system-out><![CDATA[Given that a User launch chrome browser and search for TruNarrative.........passed
+And verify that TruNarrative is the first search result return and navigate to website.passed
+When On TruNarrative Home page verify the strap line........................passed
+And navigate via the UI to TruNarrative team page...........................passed
+Then verify that TruNarrative leadership team consist  of "8" people........passed
+Then close browser..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
